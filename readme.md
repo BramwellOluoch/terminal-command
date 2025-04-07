@@ -1,0 +1,11 @@
+- `pwd`user interface
+- `Ls` list content
+- `cd` change direction
+- `mkdir` create folder
+- `touch` create folder
+- `git init` repository
+- `git add` add file
+-`git commit` message
+-`git push`
+-`git re` remove folder
+\ 
