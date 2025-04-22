@@ -8,4 +8,5 @@
 -`git commit` message
 -`git push`
 -`git re` remove folder
+- `git log`
 \ 
